@@ -101,6 +101,11 @@ main .options{
 
 main .options img{
     cursor: pointer;
+    opacity: 100%;
+}
+
+main .options img:hover{
+    opacity: 80%;
 }
 
 .scores{
